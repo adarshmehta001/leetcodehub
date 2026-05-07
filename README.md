@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/adarshmehta001/leetcodehub/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshmehta001/leetcodehub/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshmehta001/leetcodehub/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/adarshmehta001/leetcodehub/tree/main/0881-boats-to-save-people/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshmehta001/leetcodehub/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -64,4 +66,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarshmehta001/leetcodehub/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
