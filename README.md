@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshmehta001/leetcodehub/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/adarshmehta001/leetcodehub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
