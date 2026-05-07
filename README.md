@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/adarshmehta001/leetcodehub/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adarshmehta001/leetcodehub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/adarshmehta001/leetcodehub/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshmehta001/leetcodehub/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0881-boats-to-save-people](https://github.com/adarshmehta001/leetcodehub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
@@ -48,9 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/adarshmehta001/leetcodehub/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/adarshmehta001/leetcodehub/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
