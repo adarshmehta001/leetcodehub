@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshmehta001/leetcodehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/adarshmehta001/leetcodehub/tree/main/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/adarshmehta001/leetcodehub/tree/main/0198-house-robber/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/adarshmehta001/leetcodehub/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/adarshmehta001/leetcodehub/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/adarshmehta001/leetcodehub/tree/main/0704-binary-search/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshmehta001/leetcodehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshmehta001/leetcodehub/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0198-house-robber](https://github.com/adarshmehta001/leetcodehub/tree/main/0198-house-robber/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
